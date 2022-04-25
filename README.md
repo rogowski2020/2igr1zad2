@@ -19,3 +19,5 @@
 1. wydaj komendę wypisującą commity (jej zawartość zapisz w pliku w repozytorium)
 1. do pliku rozwiązanie_Twoje_Nazwisko.md  dałącz zrzut ekranu z Twoim zadaniem ze strony  (https://git-school.github.io/visualizing-git/)
 1. stwórz pull request swojego rozwiązania
+
+ddddddddd
